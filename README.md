@@ -1,12 +1,12 @@
 # 🍕 Pizza Sales Analysis
 
-## 📌 Project Overview
+##  Project Overview
 This project involves the analysis of a pizza sales dataset using SQL and data visualization using Tableau. 
 The goal is to derive meaningful business insights from the data such as top-selling pizzas, revenue trends, customer preferences, and more.
 
 ---
 
-## 🧠 Objectives
+##  Objectives
 - Analyze sales performance by pizza size, category, and date.
 - Identify best and worst-selling pizzas.
 - Track revenue trends over time.
@@ -14,7 +14,7 @@ The goal is to derive meaningful business insights from the data such as top-sel
 
 ---
 
-## 🗃️ Dataset
+##  Dataset
 - **Source**: Publicly available dataset (2015)
 - **Rows**: 48,620
 - **Columns** include:
@@ -31,7 +31,7 @@ The goal is to derive meaningful business insights from the data such as top-sel
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 - **SQL** – Data Cleaning & Analysis  
 - **Tableau** – Interactive Dashboards  
 - **Power BI** *(optional future enhancement)*  
@@ -39,7 +39,7 @@ The goal is to derive meaningful business insights from the data such as top-sel
 
 ---
 
-## 🔍 Key SQL Queries
+##  Key SQL Queries
 - Total revenue generated  
 - Average order value  
 - Monthly sales trends  
@@ -49,13 +49,13 @@ The goal is to derive meaningful business insights from the data such as top-sel
 
 ---
 
-## 📊 Tableau Dashboards
+##  Tableau Dashboards
 1. **Home Page Dashboard** – Sales trends, revenue by size & category  
 2. **Best/Worst Sellers Dashboard** – Visual comparison of top and bottom pizzas
 
 ---
 
-## 🚀 Future Work
+##  Future Work
 - Add advanced SQL queries for customer segmentation and time-series forecasting  
 - Integrate Power BI for real-time dashboards  
 - Predictive modeling using machine learning techniques
